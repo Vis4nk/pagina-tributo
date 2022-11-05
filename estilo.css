@@ -1,0 +1,48 @@
+*{
+    background-color: #ffffffd8;
+    font-family: 'Dank Mono','Cascadia Code','JetBrains Mono', monospace;
+    font-size: 20px;
+    text-align: center;
+}
+
+.caja{
+    margin-inline: 15px;
+    color: #ffffff;
+    margin-top: 40px;
+}
+.caja_2{
+    border: #000000 solid;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: #000000;
+}
+p{
+    text-align: justify;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    
+}
+#biografia, #primeros, #musica, #premios, #significado{
+    text-decoration: underline;
+    margin-top: 35px;
+    
+}
+.autor{
+    text-align: right;
+    margin-bottom: 10px;
+}
+.despedida{
+    text-align: right;
+    margin-bottom: 50px;
+    font-style: italic;
+}
+h4{
+    font-size: 25px;
+    margin-top: 150px;
+    margin-bottom: 30px;
+    text-decoration: underline 3px;
+}
